@@ -1,0 +1,17 @@
+.auth-card {
+    max-width: 420px;
+    margin: 40px auto;
+    background: var(--color-white);
+    padding: var(--spacing-lg);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-md);
+}
+
+.auth-card h1 {
+    margin-top: 0;
+}
+
+.auth-card__subtitle {
+    color: var(--color-text-light);
+    margin-bottom: var(--spacing-md);
+}
